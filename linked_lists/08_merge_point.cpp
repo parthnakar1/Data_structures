@@ -77,3 +77,4 @@ int main()
 
     return 0;
 }
+/* Expected output: Merge Node data: 6 */

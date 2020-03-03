@@ -110,3 +110,7 @@ int main()
     cout << "Merged list: ";
     print(merged);
 }
+/* Expected output: 1st Sorted list: 3->5->9->10->NULL
+                    2nd Sorted list: 2->5->5->6->NULL
+                    Merged list: 2->3->5->5->5->6->9->10->NULL
+*/
