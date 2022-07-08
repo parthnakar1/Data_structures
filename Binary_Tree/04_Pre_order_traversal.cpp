@@ -11,8 +11,8 @@
          ->Node* temp = stk.top()
          ->Print temp data.
          ->Pop top element of stk.
-         ->Push left child (if not NULL) into stk
-         ->Push right child (if not NULL) into stk.
+         ->Push right child (if not NULL) into stk
+         ->Push left child (if not NULL) into stk.
 */
 #include<iostream>
 #include<stack>
